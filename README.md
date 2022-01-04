@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chennurivenugopalachari
-- 👀 I’m interested in Data science ( AI & ML)
+- 👀 I’m enthusiastic in Data science ( AI & ML) field
 - 🌱 I’m currently learning some of the state of art techniques in deep learning
 - 💞️ I’m looking for opportunities in the field of Data science
 
